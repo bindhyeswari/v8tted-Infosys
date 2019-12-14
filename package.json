@@ -1,0 +1,10 @@
+{
+  "name": "v8tted-infosys",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "serve": "mkdocs serve",
+    "dep": "mkdocs gh-deploy"
+  }
+}
