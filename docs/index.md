@@ -1,8 +1,26 @@
 # Vetting Process
 
+ - Initial phone screen for basic core feature questions. Check for
+    - Aptitude
+    - Communications
+ - Notify Infosys about the candidate.   
+ - Coding phase
+    - Provide a JSON object and ask candidate to transform it. 
+    - Provide a more comprehensive project and view the candidate's skills
+ - Submit to Infosys      
+ 
+We are currently working on automating the process so that the __initial phone screen__ for tech can
+be delivered online and the __coding phase__ can be performed on our online test platform via [v8tted.com](https://v8tted.com).
+Intent is to provide: 
+ - Recording of the candidate's session
+ - Automated test score
+ - Assessor feedback 
+ 
+Till the platform comes live, we will provide the same using manual assessments. 
+
 ## Candidate Profile
 
- - Currently covers all Javascript candidates
+ - Currently covers all Javascript candidates 
 
 ## Coding Examples
 
